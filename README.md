@@ -1,3 +1,21 @@
+WebRTC Video Chat App
+
+A real-time video chat application utilizing WebRTC and socket.IO for seamless communication.
+
+Overview
+
+This web application enables users to engage in video calls with low latency and high-quality video using WebRTC for peer-to-peer communication. The signaling is facilitated by socket.IO, ensuring real-time updates and connectivity.
+
+Features
+Real-Time Video Calls: Engage in face-to-face video calls with other users.
+WebRTC Technology: Utilizes WebRTC for peer-to-peer communication, ensuring low-latency video streaming.
+Signaling with socket.IO: Real-time signaling for initiating and managing video calls.
+Simple Interface: An easy-to-use interface for a hassle-free video chat experience.
+Technologies Used
+WebRTC: Peer-to-peer communication for real-time video streaming.
+socket.IO: Real-time communication for signaling and connection management.
+HTML, CSS, JavaScript, React, MongoDB, Socket.IO , WebRTC.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
